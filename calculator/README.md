@@ -1,3 +1,9 @@
+# I have created a really interesting Project On Calculator using React.js & adding Some Algorithms into it.
+![Screenshot (44)](https://github.com/prathamesh1417/React-Calculator/assets/112570889/35e32c74-f0b0-4281-8b0e-dfd412d9a0e4)
+
+!! Also Checkout my Linkdin Profile here:-
+www.linkedin.com/in/prathamesh-parmar-3427841b2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
